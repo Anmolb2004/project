@@ -1,6 +1,7 @@
 # project
 
 google drive link-https://drive.google.com/drive/folders/1V3oSl--17EOLZhtAPSnbxlCWQGfX3-QU?usp=sharing
+deployed link-https://ipqs1.netlify.app/
 
 Implemented:-
 1)PDF document ingestion
