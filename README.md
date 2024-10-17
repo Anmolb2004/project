@@ -10,4 +10,5 @@ Implemented:-
 5) Citation and validation
 6)Interactive frontend
 7)Deployment
+8) Implemented ChromaDB
 8) Additional cost-effective API model(T5 Large)
